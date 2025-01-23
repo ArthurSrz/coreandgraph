@@ -9,6 +9,8 @@ Une nouvelle manière de gouverner les données.
 
 
 ## Utiliser `coreandgraph` 
+1. Pour ingérer les données issues de votre graphe : [notebook](https://github.com/ArthurSrz/coreandgraph/blob/main/ingest_graph/coreandgraph_engine_maker.ipynb)
+2. Pour interroger votre graphe : [notebook](https://github.com/ArthurSrz/coreandgraph/blob/main/graph_rag/coreandgraph_query.ipynb)
 
 
 ## Cas d'usage de `coreandgraph` 

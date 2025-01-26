@@ -1,5 +1,7 @@
 # Coreandgraph
-Une nouvelle manière de gouverner les données. 
+Un framework pour construire collectivement des graphes de connaissance et qui permet : 
+* de créer des visions partagées d'un domaine pour [rendre les #LLMs moins aveugles](https://www.youtube.com/watch?v=t7wZbbISdyA)
+* de gouverner autrement les données. 
 
 ## Installer `coreandgraph` 
 
